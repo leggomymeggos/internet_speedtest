@@ -1,5 +1,4 @@
 ## Internet speedtest
------
 A ruby and bash script to test the Internet connection using crontab or the scheduler of your choice. Free to use by anybody, so you can tell your ISP exactly when the Internet went out.
 
 ### To use
