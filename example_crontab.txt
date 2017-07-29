@@ -1,0 +1,3 @@
+PATH=<path with ruby on it>
+MAILTO="" # turn off mailing
+*/10 * * * * cd <full path to script directory> && ./test_connection.sh >> <full path to logs directory>/logs.txt
